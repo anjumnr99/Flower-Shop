@@ -91,15 +91,17 @@
     color: #272727;
     text-align: center;
     font-family: Lato;
-    font-size:larger;
+    font-size: larger;
     /* font-weight:100px; */
     text-decoration-line: underline;
     margin-top: 25px;
 }
+
 .images {
     width: 250px;
     height: 385px;
 }
+
 .flower {
     display: flex;
     justify-content: center;
@@ -128,4 +130,150 @@
     align-items: center;
     text-align: center;
 
+}
+
+.sign-btn {
+    margin-left: 210px;
+}
+
+.sign-up-section>h4 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.sign-up-section p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-bottom: 30px;
+}
+
+.red-rose {
+    width: 230px;
+    height: 290px;
+}
+
+.hot-deal {
+    height: 500px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 128px;
+    margin-bottom: 128px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+
+.Instagram>h3 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.Instagram p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-bottom: 30px;
+}
+
+.insta-images {
+    width: 230px;
+    height: 260px;
+}
+
+.insta-pictures {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    /* margin-bottom: 128px; */
+}
+
+.latest-deal {
+    margin-top: 80px;
+    margin-left: 190px;
+    margin-right: 190px;
+    height: 449px;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 70px;
+
+}
+
+.latest-deal p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.latest-deal h2 {
+    color: #272727;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.submit-box {
+    width: 400px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: left;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 15px;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0;
+    margin-right: 5px;
+}
+
+footer {
+    height: 250px;
+    background: #111010;
+    color: #FFF;
+    text-align: center;
+    padding-top: 110px;
+
+}
+
+.color-font {
+    color: #E55473;
+}
+
+footer p {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+footer h1 {
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+footer small{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
