@@ -67,10 +67,10 @@
     display: block;
     align-items: center;
     margin-bottom: 0;
-    padding-bottom: 0px;
+    padding-bottom: 0;
 }
 .header-img {
-    width: 50%;
+    width: 80%;
     height: 100% ;
     padding-bottom: 0;
     margin-bottom: 0;
