@@ -310,11 +310,11 @@ line-height: normal;
     margin-left: 10%;
     margin-right: 10%;
     border-radius: 50px;
+
 }
 .number{
     display: flex;
     align-items: center;
-    
 }
 .social-media h6{
          font-size: xx-large;
@@ -324,5 +324,51 @@ line-height: normal;
 .link{
   text-align: center;
   margin-top: 5px;
+
+}
+nav>h4{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 500;
+    font-style: italic;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-shadow: 5px 5px gray;
+}
+.nav-font{
+    font-style: italic;
+    color: rgb(134, 29, 187);
+}
+.nav-cotants{
+    display: flex;
+    font-size: larger;
+    font-style:initial;
+    font-weight: 300;
+    list-style: none;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 15px;
+    
+    
+}
+.nav-cotants a{
+    text-decoration: none;
+    font-size: larger;
+    font-style:initial;
+    color:  rgb(133, 12, 133);
+    font-weight: 300;
+    list-style: none;
+}
+nav{
+    background: #b3848e;
+}
+
+select{
+    border: none;
+    font-size: larger;
+    font-style:initial;
+    font-weight: 300;
+    background: #b3848e;
+    color: rgb(133, 12, 133);
 
 }
