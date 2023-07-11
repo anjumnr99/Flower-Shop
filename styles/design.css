@@ -63,19 +63,13 @@
     background-color: rgba(194, 103, 201, 0.5);
     
 }
-.image{
-    display: block;
-    align-items: center;
-    margin-bottom: 0;
-    padding-bottom: 0;
-}
 .header-img {
     width: 80%;
     height: 100% ;
     padding-bottom: 0;
     margin-bottom: 0;
-   
-
+    vertical-align: bottom;
+     
 }
 
 
