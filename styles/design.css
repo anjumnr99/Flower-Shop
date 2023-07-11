@@ -67,11 +67,11 @@
     display: block;
     align-items: center;
     margin-bottom: 0;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
 }
 .header-img {
     width: 50%;
-    height: 100% bottom;
+    height: 100% ;
     padding-bottom: 0;
     margin-bottom: 0;
    
