@@ -46,6 +46,18 @@
 
 }
 
+.button{
+    padding: 15px 25px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 10px;
+    border-color: #272727;
+    box-shadow: 5px 5px 5px gray;
+    background-color: rgba(194, 103, 201, 0.5);
+    
+}
+
 .header-img {
     width: auto;
     height: 80vh;
@@ -276,4 +288,40 @@ font-size: 13px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+}
+
+.phone-icon{
+    width: 70px;
+    height: 70px;
+}
+.contact-info{
+    width: 80%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(109, 59, 116, 0.5);
+    padding: 10px;
+    margin-top: -130px;
+    margin-bottom: 80px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 50px;
+}
+.number{
+    display: flex;
+    align-items: center;
+    
+}
+.social-media h6{
+         font-size: xx-large;
+         font-weight: 300;
+}
+.contact-info{
+   
+}
+.link{
+  text-align: center;
+  margin-top: 5px;
+
 }
